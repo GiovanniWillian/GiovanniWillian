@@ -12,3 +12,4 @@
 
 ##
 
+![Snake animation](https://github.com/rafaballerini/GiovanniWillian/blob/output/github-contribution-grid-snake.svg)
