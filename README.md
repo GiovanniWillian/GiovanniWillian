@@ -11,5 +11,3 @@
          <img align="right" height="98" width="96" src="https://www.linkpicture.com/q/giphy_15.gif" />
 
 ##
-
-![Snake animation](https://github.com/GiovanniWillian/GiovanniWillian/blob/output/github-contribution-grid-snake.svg)
