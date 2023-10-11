@@ -12,4 +12,4 @@
 
 ##
 
-![Snake animation](https://github.com/rafaballerini/GiovanniWillian/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GiovanniWillian/GiovanniWillian/blob/output/github-contribution-grid-snake.svg)
