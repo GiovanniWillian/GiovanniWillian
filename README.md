@@ -11,7 +11,13 @@ Sou um estudante da UFERSA e estou aprendendo as linguagens de programação, se
  <div style="display: inline_block"><br>
  Linguagens vistas:
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-         <img align="right" height="98" width="96" src="https://www.linkpicture.com/q/giphy_15.gif" />
+
+
+### Editores:
+No momento apenas utilizo:
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
+         
+  <img align="right" height="98" width="96" src="https://www.linkpicture.com/q/giphy_15.gif" />
 
 ##
 
