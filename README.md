@@ -1,6 +1,7 @@
 ### Olá! Eu sou Giovanni Willian
 
-### Sou um estudante da UFERSA e no momento estou aprendendo as linguagens de programação, sempre tive interesse na área e estou me dedicando para me tornar o melhor profissional possivel.
+Sou um estudante da UFERSA e estou aprendendo as linguagens de programação, sempre tive interesse na área e estou me dedicando para me tornar o melhor profissional possivel.
+
 - 🌱 Estudante universitário de TI
 - 📫 Email: giovanniwillian19.mafs@gmail.com
 - 😄 Pronouns: ele/dele
