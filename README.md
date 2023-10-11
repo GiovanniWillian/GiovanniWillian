@@ -14,7 +14,7 @@
 
   ![Snake animation](https://github.com/GiovanniWillian/GiovanniWillian/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+
  
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=GiovanniWillian&repo=GiovanniWillian&theme=react)](https://github.com/GiovanniWillian/GiovanniWillian)
 
