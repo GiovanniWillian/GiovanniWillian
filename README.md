@@ -1,6 +1,6 @@
 ### Olá! Eu sou Giovanni Willian
 
-Sou estudante da UFERSA e estou aprendendo as linguagens de programação, sempre tive interesse na área e estou me dedicando para me tornar um bom profissional.
+Sou estudante da UFERSA e estou aprendendo as linguagens de programação, desde criança sempre fui apaixonado por tecnologias e quando descobri que os jogos e aplicativos que tanto gostava eram criados através da programação tive interesse na área e estou me dedicando para me tornar um bom profissional.
 
 - 🌱 Estudante universitário de TI
 - 📫 Email: giovanniwillian19.mafs@gmail.com
